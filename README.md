@@ -18,7 +18,7 @@
 ## 🧑🏻 My Visitor And Followers
 [![Followers](https://img.shields.io/github/followers/OT2Otniel?label=Follow&style=social)](https://github.com/OT2Otniel)
 <br>
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OT2Otniel.OT2Otniel)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OT2Otniel.OT2Otniel)](https://gtihub.com/OT2Otniel)
 
 ### My Discord Status
 ![Otniel#2551](https://discord.c99.nl/widget/theme-3/778802442942677064.png)

@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## 🏆 My Github Stats
+## 📊 My Github Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=OT2Otniel&show_icons=true&theme=tokyonight)](https://github.com/OT2Otniel/)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OT2Otniel&theme=tokyonight)](https://github.com/OT2Otniel)
@@ -22,5 +22,8 @@
 <br>
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OT2Otniel.OT2Otniel)](https://github.com/OT2Otniel)
 
+## 🏆 My Github Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=OT2Otniel&theme=onedark)](https://github.com/OT2Otniel/)
+
 ### My Discord Status
-[![Otniel#2551](https://discord.c99.nl/widget/theme-3/778802442942677064.png)]()
+[![Otniel#2551](https://discord.c99.nl/widget/theme-3/778802442942677064.png)](https://discord.com/)

@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" height="40" style="vertical-align:top; margin:4px">
-# I'm [OT2Otniel](https://github.com/OT2Otniel/), You can call me Otniel
+### I'm [OT2Otniel](https://github.com/OT2Otniel/), You can call me Otniel
 
 ## 🧰 Languages and Tools:
 <p align="left">

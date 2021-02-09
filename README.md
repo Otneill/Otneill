@@ -25,5 +25,8 @@
 ## 🏆 My Github Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=OT2Otniel&theme=onedark)](https://github.com/OT2Otniel/)
 
+## 💻 My Website
+[![Website](https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fot2otniel.github.io%2F)](https://ot2otniel.github.io/)
+
 ### My Discord Status
 [![Otniel#2551](https://discord.c99.nl/widget/theme-3/778802442942677064.png)](https://discord.com/)

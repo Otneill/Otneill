@@ -13,9 +13,9 @@
 </p>
 
 ## 📊 My Github Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=OT2Otniel&show_icons=true&theme=tokyonight)](https://github.com/OT2Otniel/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=OT2Otniel&show_icons=true&theme=radical)](https://github.com/OT2Otniel/)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OT2Otniel&theme=tokyonight)](https://github.com/OT2Otniel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OT2Otniel&theme=radical)](https://github.com/OT2Otniel)
 
 ## 🧑🏻 My Visitor And Followers
 [![Followers](https://img.shields.io/github/followers/OT2Otniel?label=Follow&style=social)](https://github.com/OT2Otniel)
@@ -30,3 +30,6 @@
 
 ### My Discord Status
 [![Otniel#2551](https://discord.c99.nl/widget/theme-3/778802442942677064.png)](https://discord.com/)
+
+## Here's My Discord Bio
+<a href="https://dsc.bio/ot2otniel" style="cursor: pointer;" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/discord-512.png" alt="discord" height="40" style="vertical-align:top; margin:4px"></a>

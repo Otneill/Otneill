@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" height="40" style="vertical-align:top; margin:4px">
+# Hi there <a href="https://github.com/OT2Otniel/"><img src="https://raw.githubusercontent.com/OT2Otniel/OT2Otniel/master/wave.gif" alt="wave" height="40" style="vertical-align:top; margin:4px"></a>
 ### I'm [OT2Otniel](https://github.com/OT2Otniel/), You can call me Otniel
 
 ## 🧰 Languages and Tools:

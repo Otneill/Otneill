@@ -15,7 +15,7 @@
 ## 📊 My Github Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Otneill&show_icons=true&theme=radical)](https://github.com/Otneill/)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otneill&theme=radical)](https://github.com/Otneill)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otneill&show_icons=true&theme=radical)](https://github.com/Otneill)
 
 ## 🧑🏻 My Visitor And Followers
 [![Followers](https://img.shields.io/github/followers/Otneill?label=Follow&style=social)](https://github.com/Otneill)
@@ -23,7 +23,7 @@
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Otneill.Otniel)](https://github.com/Otneill)
 
 ## 🏆 My Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Otneill&theme=onedark)](https://github.com/Otneill/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Otneill&theme=radical)](https://github.com/Otneill/)
 
 ### My Discord Status
 [![Otniel#2886](https://discord.c99.nl/widget/theme-1/979709332214145135.png)](https://dsc.bio/otneill)

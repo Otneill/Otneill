@@ -1,5 +1,5 @@
-# Hi there <a href="https://github.com/OT2Otniel/"><img src="https://raw.githubusercontent.com/OT2Otniel/OT2Otniel/master/wave.gif" alt="wave" height="40" style="vertical-align:top; margin:4px"></a>
-### I'm [OT2Otniel](https://github.com/OT2Otniel/), You can call me Otniel
+# Hi there <a href="https://github.com/Otneill/"><img src="https://raw.githubusercontent.com/Otneill/Otniel/master/wave.gif" alt="wave" height="40" style="vertical-align:top; margin:4px"></a>
+### I'm [Otniel](https://github.com/Otneill/), You can call me niel
 
 ## 🧰 Languages and Tools:
 <p align="left">
@@ -13,23 +13,20 @@
 </p>
 
 ## 📊 My Github Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=OT2Otniel&show_icons=true&theme=radical)](https://github.com/OT2Otniel/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=OTneill&show_icons=true&theme=radical)](https://github.com/Otneill/)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OT2Otniel&theme=radical)](https://github.com/OT2Otniel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otneill&theme=radical)](https://github.com/Otneill)
 
 ## 🧑🏻 My Visitor And Followers
-[![Followers](https://img.shields.io/github/followers/OT2Otniel?label=Follow&style=social)](https://github.com/OT2Otniel)
+[![Followers](https://img.shields.io/github/followers/Otneill?label=Follow&style=social)](https://github.com/OT2Otniel)
 <br>
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OT2Otniel.OT2Otniel)](https://github.com/OT2Otniel)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Otneill.Otniel)](https://github.com/Otneill)
 
 ## 🏆 My Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=OT2Otniel&theme=onedark)](https://github.com/OT2Otniel/)
-
-## 💻 My Website
-[![Website](https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fot2otniel.github.io%2F)](https://ot2otniel.github.io/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Otneill&theme=onedark)](https://github.com/Otneill/)
 
 ### My Discord Status
 [![Otniel#2551](https://discord.c99.nl/widget/theme-3/778802442942677064.png)](https://discord.com/)
 
 ## Here's My Discord Bio
-<a href="https://dsc.bio/ot2otniel" style="cursor: pointer;" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/discord-512.png" alt="discord" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://dsc.bio/otneill" style="cursor: pointer;" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/discord-512.png" alt="discord" height="40" style="vertical-align:top; margin:4px"></a>

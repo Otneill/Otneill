@@ -1,7 +1,6 @@
 <div align="center">
   
-## About
-Hello, My name's Otniel. I'm just learning about programming
+###Hello, My name's Otniel. I'm just learning about programming
 
 -------------------
 

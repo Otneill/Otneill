@@ -1,30 +1,27 @@
-# Hi there <a href="https://github.com/Otneill/"><img src="https://raw.githubusercontent.com/Otneill/Otniel/master/wave.gif" alt="wave" height="40" style="vertical-align:top; margin:4px"></a>
-### I'm [Otniel](https://github.com/Otneill/), You can call me niel
+<div align="center">
+  
+## About
+Hello, My name's Otniel. I'm just learning about programming
 
-## 🧰 Languages and Tools:
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="c-sharp" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
+-------------------
 
-## 📊 My Github Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Otneill&show_icons=true&theme=radical)](https://github.com/Otneill/)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otneill&show_icons=true&theme=radical)](https://github.com/Otneill)
+## Contact
+<a href="https://www.instagram.com/otchrist_/">![Instagram](https://img.shields.io/badge/Otniel-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/otneill">![Twitter](https://img.shields.io/badge/Otniel-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+</a> ![Discord](https://img.shields.io/badge/Otniel%232886-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-## 🧑🏻 My Visitor And Followers
-[![Followers](https://img.shields.io/github/followers/Otneill?label=Follow&style=social)](https://github.com/Otneill)
-<br>
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Otneill.Otniel)](https://github.com/Otneill)
+-------------------
 
-## 🏆 My Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Otneill&theme=radical)](https://github.com/Otneill/)
+### Languages and Tools  
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![DiscordJS](https://img.shields.io/badge/discord.js-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-### My Discord Status
-[![Otniel#2886](https://discord.c99.nl/widget/theme-1/979709332214145135.png)](https://dsc.bio/otneill)
+-------------------
+  
+![Otneill github stats](https://github-readme-stats.vercel.app/api?username=Otneill&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
+![Otneill github streak](https://github-readme-streak-stats.herokuapp.com/?user=Otneill&theme=radical&include_all_commits=true&count_private=true)
+
+ <div>
+
+-----
+
+Last Edited on: 20/12/2022

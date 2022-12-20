@@ -5,7 +5,7 @@
 -------------------
 
 ## Contact
-<a href="https://www.instagram.com/otchrist_/">![Instagram](https://img.shields.io/badge/Otniel-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/otneill">![Twitter](https://img.shields.io/badge/Otniel-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.instagram.com/otchrist_/">![Instagram](https://img.shields.io/badge/Otniel-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/otneill_">![Twitter](https://img.shields.io/badge/Otniel-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://discord.com/">![Discord](https://img.shields.io/badge/Otniel%232886-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 
 -------------------
